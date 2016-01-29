@@ -13,9 +13,9 @@ public class Map {
 	private int[,] terrain; //It will contain the type of terrain of each maptile
 
 	public void LoadMap () {
-		string[] mapContent = File.ReadAllText(Application.persistentDataPath + "/test.txt").Split(':');
+        string[] mapContent = File.ReadAllLines(Application.persistentDataPath + "/test.txt")[0].Split(':');
 
-		string[] metainfo, terraininfo, unitsinfo;
+        string[] metainfo, terraininfo, unitsinfo;
 
 		metainfo = mapContent [0].Split (',');
 		terraininfo = mapContent [1].Split (',');
