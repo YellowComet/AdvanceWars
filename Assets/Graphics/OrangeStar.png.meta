@@ -1,0 +1,2387 @@
+fileFormatVersion: 2
+guid: 76ed664486b65014aa771a214416c883
+timeCreated: 1438786977
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: OrangeStar_0
+    21300002: OrangeStar_1
+    21300004: OrangeStar_2
+    21300006: OrangeStar_3
+    21300008: OrangeStar_4
+    21300010: OrangeStar_5
+    21300012: OrangeStar_6
+    21300014: OrangeStar_7
+    21300016: OrangeStar_8
+    21300018: OrangeStar_9
+    21300020: OrangeStar_10
+    21300022: OrangeStar_11
+    21300024: OrangeStar_12
+    21300026: OrangeStar_13
+    21300028: OrangeStar_14
+    21300030: OrangeStar_15
+    21300032: OrangeStar_16
+    21300034: OrangeStar_17
+    21300036: OrangeStar_18
+    21300038: OrangeStar_19
+    21300040: OrangeStar_20
+    21300042: OrangeStar_21
+    21300044: OrangeStar_22
+    21300046: OrangeStar_23
+    21300048: OrangeStar_24
+    21300050: OrangeStar_25
+    21300052: OrangeStar_26
+    21300054: OrangeStar_27
+    21300056: OrangeStar_28
+    21300058: OrangeStar_29
+    21300060: OrangeStar_30
+    21300062: OrangeStar_31
+    21300064: OrangeStar_32
+    21300066: OrangeStar_33
+    21300068: OrangeStar_34
+    21300070: OrangeStar_35
+    21300072: OrangeStar_36
+    21300074: OrangeStar_37
+    21300076: OrangeStar_38
+    21300078: OrangeStar_39
+    21300080: OrangeStar_40
+    21300082: OrangeStar_41
+    21300084: OrangeStar_42
+    21300086: OrangeStar_43
+    21300088: OrangeStar_44
+    21300090: OrangeStar_45
+    21300092: OrangeStar_46
+    21300094: OrangeStar_47
+    21300096: OrangeStar_48
+    21300098: OrangeStar_49
+    21300100: OrangeStar_50
+    21300102: OrangeStar_51
+    21300104: OrangeStar_52
+    21300106: OrangeStar_53
+    21300108: OrangeStar_54
+    21300110: OrangeStar_55
+    21300112: OrangeStar_56
+    21300114: OrangeStar_57
+    21300116: OrangeStar_58
+    21300118: OrangeStar_59
+    21300120: OrangeStar_60
+    21300122: OrangeStar_61
+    21300124: OrangeStar_62
+    21300126: OrangeStar_63
+    21300128: OrangeStar_64
+    21300130: OrangeStar_65
+    21300132: OrangeStar_66
+    21300134: OrangeStar_67
+    21300136: OrangeStar_68
+    21300138: OrangeStar_69
+    21300140: OrangeStar_70
+    21300142: OrangeStar_71
+    21300144: OrangeStar_72
+    21300146: OrangeStar_73
+    21300148: OrangeStar_74
+    21300150: OrangeStar_75
+    21300152: OrangeStar_76
+    21300154: OrangeStar_77
+    21300156: OrangeStar_78
+    21300158: OrangeStar_79
+    21300160: OrangeStar_80
+    21300162: OrangeStar_81
+    21300164: OrangeStar_82
+    21300166: OrangeStar_83
+    21300168: OrangeStar_84
+    21300170: OrangeStar_85
+    21300172: OrangeStar_86
+    21300174: OrangeStar_87
+    21300176: OrangeStar_88
+    21300178: OrangeStar_89
+    21300180: OrangeStar_90
+    21300182: OrangeStar_91
+    21300184: OrangeStar_92
+    21300186: OrangeStar_93
+    21300188: OrangeStar_94
+    21300190: OrangeStar_95
+    21300192: OrangeStar_96
+    21300194: OrangeStar_97
+    21300196: OrangeStar_98
+    21300198: OrangeStar_99
+    21300200: OrangeStar_100
+    21300202: OrangeStar_101
+    21300204: OrangeStar_102
+    21300206: OrangeStar_103
+    21300208: OrangeStar_104
+    21300210: OrangeStar_105
+    21300212: OrangeStar_106
+    21300214: OrangeStar_107
+    21300216: OrangeStar_108
+    21300218: OrangeStar_109
+    21300220: OrangeStar_110
+    21300222: OrangeStar_111
+    21300224: OrangeStar_112
+    21300226: OrangeStar_113
+    21300228: OrangeStar_114
+    21300230: OrangeStar_115
+    21300232: OrangeStar_116
+    21300234: OrangeStar_117
+    21300236: OrangeStar_118
+    21300238: OrangeStar_119
+    21300240: OrangeStar_120
+    21300242: OrangeStar_121
+    21300244: OrangeStar_122
+    21300246: OrangeStar_123
+    21300248: OrangeStar_124
+    21300250: OrangeStar_125
+    21300252: OrangeStar_126
+    21300254: OrangeStar_127
+    21300256: OrangeStar_128
+    21300258: OrangeStar_129
+    21300260: OrangeStar_130
+    21300262: OrangeStar_131
+    21300264: OrangeStar_132
+    21300266: OrangeStar_133
+    21300268: OrangeStar_134
+    21300270: OrangeStar_135
+    21300272: OrangeStar_136
+    21300274: OrangeStar_137
+    21300276: OrangeStar_138
+    21300278: OrangeStar_139
+    21300280: OrangeStar_140
+    21300282: OrangeStar_141
+    21300284: OrangeStar_142
+    21300286: OrangeStar_143
+    21300288: OrangeStar_144
+    21300290: OrangeStar_145
+    21300292: OrangeStar_146
+    21300294: OrangeStar_147
+    21300296: OrangeStar_148
+    21300298: OrangeStar_149
+    21300300: OrangeStar_150
+    21300302: OrangeStar_151
+    21300304: OrangeStar_152
+    21300306: OrangeStar_153
+    21300308: OrangeStar_154
+    21300310: OrangeStar_155
+    21300312: OrangeStar_160
+    21300314: OrangeStar_161
+    21300316: OrangeStar_162
+    21300318: OrangeStar_163
+    21300320: OrangeStar_164
+    21300322: OrangeStar_165
+    21300324: OrangeStar_166
+    21300326: OrangeStar_167
+    21300328: OrangeStar_168
+    21300330: OrangeStar_169
+    21300332: OrangeStar_170
+    21300334: OrangeStar_171
+    21300336: OrangeStar_172
+    21300338: OrangeStar_173
+    21300340: OrangeStar_174
+    21300342: OrangeStar_175
+    21300344: OrangeStar_176
+    21300346: OrangeStar_177
+    21300348: OrangeStar_178
+    21300350: OrangeStar_179
+    21300352: OrangeStar_180
+    21300354: OrangeStar_181
+    21300356: OrangeStar_182
+    21300358: OrangeStar_183
+    21300360: OrangeStar_184
+    21300362: OrangeStar_185
+    21300364: OrangeStar_186
+    21300366: OrangeStar_187
+    21300368: OrangeStar_188
+    21300370: OrangeStar_189
+    21300372: OrangeStar_190
+    21300374: OrangeStar_191
+    21300376: OrangeStar_192
+    21300378: OrangeStar_193
+    21300380: OrangeStar_194
+    21300382: OrangeStar_195
+    21300384: OrangeStar_196
+    21300386: OrangeStar_197
+    21300388: OrangeStar_198
+    21300390: OrangeStar_199
+    21300392: OrangeStar_200
+    21300394: OrangeStar_201
+    21300396: OrangeStar_202
+    21300398: OrangeStar_203
+    21300400: OrangeStar_204
+    21300402: OrangeStar_205
+    21300404: OrangeStar_206
+    21300406: OrangeStar_207
+    21300408: OrangeStar_208
+    21300410: OrangeStar_209
+    21300412: OrangeStar_210
+    21300414: OrangeStar_211
+    21300416: OrangeStar_212
+    21300418: OrangeStar_213
+    21300420: OrangeStar_214
+    21300422: OrangeStar_215
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 16
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: OrangeStar_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 676
+        width: 14
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: OrangeStar_1
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 676
+        width: 14
+        height: 15
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: OrangeStar_2
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 676
+        width: 16
+        height: 17
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: OrangeStar_3
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 676
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: OrangeStar_4
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 676
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: OrangeStar_5
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 676
+        width: 11
+        height: 17
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: OrangeStar_6
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 676
+        width: 11
+        height: 17
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: OrangeStar_7
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 676
+        width: 11
+        height: 18
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: OrangeStar_8
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 676
+        width: 13
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: OrangeStar_9
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 676
+        width: 13
+        height: 17
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: OrangeStar_10
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 676
+        width: 13
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: OrangeStar_11
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 676
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: OrangeStar_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 652
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: OrangeStar_13
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 652
+        width: 16
+        height: 17
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: OrangeStar_14
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 652
+        width: 14
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: OrangeStar_15
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 652
+        width: 14
+        height: 15
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: OrangeStar_16
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 652
+        width: 16
+        height: 15
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: OrangeStar_17
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 652
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: OrangeStar_18
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 652
+        width: 16
+        height: 17
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: OrangeStar_19
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 652
+        width: 16
+        height: 17
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: OrangeStar_20
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 652
+        width: 16
+        height: 18
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: OrangeStar_21
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 652
+        width: 14
+        height: 19
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: OrangeStar_22
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 652
+        width: 14
+        height: 20
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: OrangeStar_23
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 652
+        width: 14
+        height: 19
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: OrangeStar_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 628
+        width: 16
+        height: 17
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: OrangeStar_25
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 628
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: OrangeStar_26
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 628
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: OrangeStar_27
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 628
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: OrangeStar_28
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 628
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: OrangeStar_29
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 628
+        width: 16
+        height: 17
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: OrangeStar_30
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 628
+        width: 16
+        height: 15
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: OrangeStar_31
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 628
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: OrangeStar_32
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 628
+        width: 13
+        height: 14
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: OrangeStar_33
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 628
+        width: 13
+        height: 15
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: OrangeStar_34
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 628
+        width: 13
+        height: 15
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: OrangeStar_35
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 628
+        width: 13
+        height: 15
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: OrangeStar_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 604
+        width: 13
+        height: 15
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: OrangeStar_37
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 604
+        width: 11
+        height: 15
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: OrangeStar_38
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 604
+        width: 11
+        height: 15
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: OrangeStar_39
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 604
+        width: 11
+        height: 17
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: OrangeStar_40
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 604
+        width: 11
+        height: 17
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: OrangeStar_41
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 604
+        width: 13
+        height: 14
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: OrangeStar_42
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 604
+        width: 13
+        height: 15
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: OrangeStar_43
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 604
+        width: 14
+        height: 14
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: OrangeStar_44
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 604
+        width: 14
+        height: 13
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: OrangeStar_45
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 604
+        width: 14
+        height: 14
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: OrangeStar_46
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 604
+        width: 14
+        height: 13
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: OrangeStar_47
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 604
+        width: 14
+        height: 14
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: OrangeStar_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 580
+        width: 11
+        height: 15
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: OrangeStar_49
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 580
+        width: 11
+        height: 15
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: OrangeStar_50
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 580
+        width: 11
+        height: 15
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: OrangeStar_51
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 580
+        width: 11
+        height: 15
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: OrangeStar_52
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 580
+        width: 14
+        height: 14
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: OrangeStar_53
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 580
+        width: 14
+        height: 13
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: OrangeStar_54
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 580
+        width: 15
+        height: 15
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: OrangeStar_55
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 580
+        width: 15
+        height: 14
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: OrangeStar_56
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 580
+        width: 15
+        height: 15
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: OrangeStar_57
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 580
+        width: 15
+        height: 14
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: OrangeStar_58
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 580
+        width: 15
+        height: 15
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: OrangeStar_59
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 580
+        width: 11
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: OrangeStar_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 556
+        width: 11
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: OrangeStar_61
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 556
+        width: 11
+        height: 19
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: OrangeStar_62
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 556
+        width: 11
+        height: 19
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: OrangeStar_63
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 556
+        width: 15
+        height: 15
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: OrangeStar_64
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 556
+        width: 15
+        height: 14
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: OrangeStar_65
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 556
+        width: 13
+        height: 13
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: OrangeStar_66
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 556
+        width: 12
+        height: 12
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: OrangeStar_67
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 556
+        width: 13
+        height: 13
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: OrangeStar_68
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 556
+        width: 12
+        height: 12
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: OrangeStar_69
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 556
+        width: 13
+        height: 13
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: OrangeStar_70
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 556
+        width: 11
+        height: 14
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: OrangeStar_71
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 556
+        width: 11
+        height: 14
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: OrangeStar_72
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 532
+        width: 11
+        height: 15
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: OrangeStar_73
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 532
+        width: 11
+        height: 15
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: OrangeStar_74
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 532
+        width: 13
+        height: 13
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: OrangeStar_75
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 532
+        width: 12
+        height: 12
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: OrangeStar_76
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 532
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: OrangeStar_77
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 532
+        width: 16
+        height: 15
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: OrangeStar_78
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 532
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: OrangeStar_79
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 532
+        width: 16
+        height: 15
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: OrangeStar_80
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 532
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: OrangeStar_81
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 532
+        width: 11
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: OrangeStar_82
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 532
+        width: 11
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: OrangeStar_83
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 532
+        width: 11
+        height: 18
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: OrangeStar_84
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 508
+        width: 11
+        height: 18
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: OrangeStar_85
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 508
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: OrangeStar_86
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 508
+        width: 16
+        height: 15
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: OrangeStar_87
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 508
+        width: 14
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: OrangeStar_88
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 508
+        width: 14
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: OrangeStar_89
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 508
+        width: 14
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: OrangeStar_90
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 508
+        width: 14
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: OrangeStar_91
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 508
+        width: 12
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: OrangeStar_92
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 508
+        width: 12
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: OrangeStar_93
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 508
+        width: 12
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: OrangeStar_94
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 508
+        width: 12
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: OrangeStar_95
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 508
+        width: 14
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: OrangeStar_96
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 484
+        width: 14
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: OrangeStar_97
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 484
+        width: 14
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: OrangeStar_98
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 484
+        width: 14
+        height: 15
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: OrangeStar_99
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 484
+        width: 14
+        height: 15
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: OrangeStar_100
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 484
+        width: 14
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: OrangeStar_101
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 484
+        width: 9
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: OrangeStar_102
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 484
+        width: 9
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: OrangeStar_103
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 484
+        width: 9
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: OrangeStar_104
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 484
+        width: 9
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: OrangeStar_105
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 484
+        width: 14
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: OrangeStar_106
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 484
+        width: 14
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: OrangeStar_107
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 484
+        width: 15
+        height: 15
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: OrangeStar_108
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 460
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: OrangeStar_109
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 460
+        width: 15
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: OrangeStar_110
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 460
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: OrangeStar_111
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 460
+        width: 15
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: OrangeStar_112
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 460
+        width: 13
+        height: 17
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: OrangeStar_113
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 460
+        width: 13
+        height: 17
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: OrangeStar_114
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 460
+        width: 13
+        height: 18
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: OrangeStar_115
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 460
+        width: 13
+        height: 18
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: OrangeStar_116
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 460
+        width: 15
+        height: 15
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: OrangeStar_117
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 460
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: OrangeStar_118
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 460
+        width: 15
+        height: 15
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: OrangeStar_119
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 460
+        width: 15
+        height: 15
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: OrangeStar_120
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 436
+        width: 16
+        height: 15
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: OrangeStar_121
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 436
+        width: 15
+        height: 19
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: OrangeStar_122
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 436
+        width: 19
+        height: 21
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: OrangeStar_123
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 436
+        width: 19
+        height: 21
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: OrangeStar_124
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 436
+        width: 15
+        height: 19
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: OrangeStar_125
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 436
+        width: 11
+        height: 20
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: OrangeStar_126
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 436
+        width: 11
+        height: 23
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: OrangeStar_127
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 436
+        width: 11
+        height: 20
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: OrangeStar_128
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 436
+        width: 11
+        height: 22
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: OrangeStar_129
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 436
+        width: 15
+        height: 15
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: OrangeStar_130
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 436
+        width: 15
+        height: 15
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: OrangeStar_131
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 436
+        width: 16
+        height: 15
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: OrangeStar_132
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 412
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: OrangeStar_133
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 412
+        width: 16
+        height: 15
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: OrangeStar_134
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 412
+        width: 16
+        height: 15
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: OrangeStar_135
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 412
+        width: 16
+        height: 21
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: OrangeStar_136
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 412
+        width: 21
+        height: 23
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: OrangeStar_137
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 412
+        width: 21
+        height: 23
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: OrangeStar_138
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 412
+        width: 16
+        height: 21
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: OrangeStar_139
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 412
+        width: 13
+        height: 22
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: OrangeStar_140
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 410
+        width: 19
+        height: 24
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: OrangeStar_141
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 412
+        width: 13
+        height: 17
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: OrangeStar_142
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 412
+        width: 19
+        height: 20
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: OrangeStar_143
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 412
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: OrangeStar_144
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 388
+        width: 16
+        height: 15
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: OrangeStar_145
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 388
+        width: 16
+        height: 15
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: OrangeStar_146
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 388
+        width: 15
+        height: 14
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: OrangeStar_147
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 388
+        width: 15
+        height: 14
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: OrangeStar_148
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 388
+        width: 22
+        height: 19
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: OrangeStar_149
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 388
+        width: 22
+        height: 19
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: OrangeStar_150
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 388
+        width: 22
+        height: 19
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: OrangeStar_151
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 388
+        width: 22
+        height: 19
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: OrangeStar_152
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 388
+        width: 13
+        height: 21
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: OrangeStar_153
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 388
+        width: 13
+        height: 23
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: OrangeStar_154
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 388
+        width: 13
+        height: 22
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: OrangeStar_155
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 388
+        width: 13
+        height: 23
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: OrangeStar_160
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 340
+        width: 15
+        height: 14
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: OrangeStar_161
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 340
+        width: 15
+        height: 14
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: OrangeStar_162
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 340
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: OrangeStar_163
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 340
+        width: 16
+        height: 15
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: OrangeStar_164
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 340
+        width: 23
+        height: 22
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: OrangeStar_165
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 340
+        width: 23
+        height: 22
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: OrangeStar_166
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 340
+        width: 23
+        height: 22
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: OrangeStar_167
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 340
+        width: 23
+        height: 22
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: OrangeStar_168
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 340
+        width: 19
+        height: 24
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: OrangeStar_169
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 340
+        width: 19
+        height: 24
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: OrangeStar_170
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 340
+        width: 19
+        height: 24
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: OrangeStar_171
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 340
+        width: 19
+        height: 24
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: OrangeStar_172
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 316
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: OrangeStar_173
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 316
+        width: 16
+        height: 15
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: OrangeStar_174
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 316
+        width: 16
+        height: 14
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: OrangeStar_175
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 316
+        width: 16
+        height: 13
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: OrangeStar_176
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 316
+        width: 16
+        height: 13
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: OrangeStar_177
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 316
+        width: 16
+        height: 14
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: OrangeStar_178
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 316
+        width: 11
+        height: 18
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: OrangeStar_179
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 316
+        width: 11
+        height: 17
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: OrangeStar_180
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 316
+        width: 11
+        height: 18
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: OrangeStar_181
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 316
+        width: 11
+        height: 20
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: OrangeStar_182
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 316
+        width: 18
+        height: 13
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: OrangeStar_183
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 316
+        width: 17
+        height: 13
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: OrangeStar_184
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 292
+        width: 16
+        height: 11
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: OrangeStar_185
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 292
+        width: 16
+        height: 11
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: OrangeStar_186
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 292
+        width: 16
+        height: 11
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: OrangeStar_187
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 292
+        width: 16
+        height: 11
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: OrangeStar_188
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 292
+        width: 16
+        height: 11
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: OrangeStar_189
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 292
+        width: 16
+        height: 11
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: OrangeStar_190
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 292
+        width: 8
+        height: 15
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: OrangeStar_191
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 292
+        width: 8
+        height: 15
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: OrangeStar_192
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 292
+        width: 10
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: OrangeStar_193
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 292
+        width: 10
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: OrangeStar_194
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 292
+        width: 16
+        height: 11
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: OrangeStar_195
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 292
+        width: 16
+        height: 11
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: OrangeStar_196
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 268
+        width: 13
+        height: 11
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: OrangeStar_197
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 268
+        width: 13
+        height: 12
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: OrangeStar_198
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 268
+        width: 13
+        height: 12
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: OrangeStar_199
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 268
+        width: 13
+        height: 11
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: OrangeStar_200
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 268
+        width: 11
+        height: 17
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: OrangeStar_201
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 268
+        width: 11
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: OrangeStar_202
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 268
+        width: 11
+        height: 14
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: OrangeStar_203
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 268
+        width: 11
+        height: 14
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: OrangeStar_204
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 268
+        width: 13
+        height: 11
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: OrangeStar_205
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 268
+        width: 13
+        height: 12
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: OrangeStar_206
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 268
+        width: 16
+        height: 14
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: OrangeStar_207
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 268
+        width: 16
+        height: 15
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: OrangeStar_208
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 244
+        width: 16
+        height: 15
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: OrangeStar_209
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 244
+        width: 16
+        height: 14
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: OrangeStar_210
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 244
+        width: 10
+        height: 19
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: OrangeStar_211
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 244
+        width: 11
+        height: 20
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: OrangeStar_212
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 244
+        width: 11
+        height: 18
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: OrangeStar_213
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 244
+        width: 11
+        height: 19
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: OrangeStar_214
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 244
+        width: 17
+        height: 15
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: OrangeStar_215
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 244
+        width: 18
+        height: 14
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

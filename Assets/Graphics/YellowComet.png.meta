@@ -1,0 +1,2387 @@
+fileFormatVersion: 2
+guid: d5a4386cbcef194419471276bc5ab88c
+timeCreated: 1438787143
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: YellowComet_0
+    21300002: YellowComet_1
+    21300004: YellowComet_2
+    21300006: YellowComet_3
+    21300008: YellowComet_4
+    21300010: YellowComet_5
+    21300012: YellowComet_6
+    21300014: YellowComet_7
+    21300016: YellowComet_8
+    21300018: YellowComet_9
+    21300020: YellowComet_10
+    21300022: YellowComet_11
+    21300024: YellowComet_12
+    21300026: YellowComet_13
+    21300028: YellowComet_14
+    21300030: YellowComet_15
+    21300032: YellowComet_16
+    21300034: YellowComet_17
+    21300036: YellowComet_18
+    21300038: YellowComet_19
+    21300040: YellowComet_20
+    21300042: YellowComet_21
+    21300044: YellowComet_22
+    21300046: YellowComet_23
+    21300048: YellowComet_24
+    21300050: YellowComet_25
+    21300052: YellowComet_26
+    21300054: YellowComet_27
+    21300056: YellowComet_28
+    21300058: YellowComet_29
+    21300060: YellowComet_30
+    21300062: YellowComet_31
+    21300064: YellowComet_32
+    21300066: YellowComet_33
+    21300068: YellowComet_34
+    21300070: YellowComet_35
+    21300072: YellowComet_36
+    21300074: YellowComet_37
+    21300076: YellowComet_38
+    21300078: YellowComet_39
+    21300080: YellowComet_40
+    21300082: YellowComet_41
+    21300084: YellowComet_42
+    21300086: YellowComet_43
+    21300088: YellowComet_44
+    21300090: YellowComet_45
+    21300092: YellowComet_46
+    21300094: YellowComet_47
+    21300096: YellowComet_48
+    21300098: YellowComet_49
+    21300100: YellowComet_50
+    21300102: YellowComet_51
+    21300104: YellowComet_52
+    21300106: YellowComet_53
+    21300108: YellowComet_54
+    21300110: YellowComet_55
+    21300112: YellowComet_56
+    21300114: YellowComet_57
+    21300116: YellowComet_58
+    21300118: YellowComet_59
+    21300120: YellowComet_60
+    21300122: YellowComet_61
+    21300124: YellowComet_62
+    21300126: YellowComet_63
+    21300128: YellowComet_64
+    21300130: YellowComet_65
+    21300132: YellowComet_66
+    21300134: YellowComet_67
+    21300136: YellowComet_68
+    21300138: YellowComet_69
+    21300140: YellowComet_70
+    21300142: YellowComet_71
+    21300144: YellowComet_72
+    21300146: YellowComet_73
+    21300148: YellowComet_74
+    21300150: YellowComet_75
+    21300152: YellowComet_76
+    21300154: YellowComet_77
+    21300156: YellowComet_78
+    21300158: YellowComet_79
+    21300160: YellowComet_80
+    21300162: YellowComet_81
+    21300164: YellowComet_82
+    21300166: YellowComet_83
+    21300168: YellowComet_84
+    21300170: YellowComet_85
+    21300172: YellowComet_86
+    21300174: YellowComet_87
+    21300176: YellowComet_88
+    21300178: YellowComet_89
+    21300180: YellowComet_90
+    21300182: YellowComet_91
+    21300184: YellowComet_92
+    21300186: YellowComet_93
+    21300188: YellowComet_94
+    21300190: YellowComet_95
+    21300192: YellowComet_96
+    21300194: YellowComet_97
+    21300196: YellowComet_98
+    21300198: YellowComet_99
+    21300200: YellowComet_100
+    21300202: YellowComet_101
+    21300204: YellowComet_102
+    21300206: YellowComet_103
+    21300208: YellowComet_104
+    21300210: YellowComet_105
+    21300212: YellowComet_106
+    21300214: YellowComet_107
+    21300216: YellowComet_108
+    21300218: YellowComet_109
+    21300220: YellowComet_110
+    21300222: YellowComet_111
+    21300224: YellowComet_112
+    21300226: YellowComet_113
+    21300228: YellowComet_114
+    21300230: YellowComet_115
+    21300232: YellowComet_116
+    21300234: YellowComet_117
+    21300236: YellowComet_118
+    21300238: YellowComet_119
+    21300240: YellowComet_120
+    21300242: YellowComet_121
+    21300244: YellowComet_122
+    21300246: YellowComet_123
+    21300248: YellowComet_124
+    21300250: YellowComet_125
+    21300252: YellowComet_126
+    21300254: YellowComet_127
+    21300256: YellowComet_128
+    21300258: YellowComet_129
+    21300260: YellowComet_130
+    21300262: YellowComet_131
+    21300264: YellowComet_132
+    21300266: YellowComet_133
+    21300268: YellowComet_134
+    21300270: YellowComet_135
+    21300272: YellowComet_136
+    21300274: YellowComet_137
+    21300276: YellowComet_138
+    21300278: YellowComet_139
+    21300280: YellowComet_140
+    21300282: YellowComet_141
+    21300284: YellowComet_142
+    21300286: YellowComet_143
+    21300288: YellowComet_144
+    21300290: YellowComet_145
+    21300292: YellowComet_146
+    21300294: YellowComet_147
+    21300296: YellowComet_148
+    21300298: YellowComet_149
+    21300300: YellowComet_150
+    21300302: YellowComet_151
+    21300304: YellowComet_152
+    21300306: YellowComet_153
+    21300308: YellowComet_154
+    21300310: YellowComet_155
+    21300312: YellowComet_160
+    21300314: YellowComet_161
+    21300316: YellowComet_162
+    21300318: YellowComet_163
+    21300320: YellowComet_164
+    21300322: YellowComet_165
+    21300324: YellowComet_166
+    21300326: YellowComet_167
+    21300328: YellowComet_168
+    21300330: YellowComet_169
+    21300332: YellowComet_170
+    21300334: YellowComet_171
+    21300336: YellowComet_172
+    21300338: YellowComet_173
+    21300340: YellowComet_174
+    21300342: YellowComet_175
+    21300344: YellowComet_176
+    21300346: YellowComet_177
+    21300348: YellowComet_178
+    21300350: YellowComet_179
+    21300352: YellowComet_180
+    21300354: YellowComet_181
+    21300356: YellowComet_182
+    21300358: YellowComet_183
+    21300360: YellowComet_184
+    21300362: YellowComet_185
+    21300364: YellowComet_186
+    21300366: YellowComet_187
+    21300368: YellowComet_188
+    21300370: YellowComet_189
+    21300372: YellowComet_190
+    21300374: YellowComet_191
+    21300376: YellowComet_192
+    21300378: YellowComet_193
+    21300380: YellowComet_194
+    21300382: YellowComet_195
+    21300384: YellowComet_196
+    21300386: YellowComet_197
+    21300388: YellowComet_198
+    21300390: YellowComet_199
+    21300392: YellowComet_200
+    21300394: YellowComet_201
+    21300396: YellowComet_202
+    21300398: YellowComet_203
+    21300400: YellowComet_204
+    21300402: YellowComet_205
+    21300404: YellowComet_206
+    21300406: YellowComet_207
+    21300408: YellowComet_208
+    21300410: YellowComet_209
+    21300412: YellowComet_210
+    21300414: YellowComet_211
+    21300416: YellowComet_212
+    21300418: YellowComet_213
+    21300420: YellowComet_214
+    21300422: YellowComet_215
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 16
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: YellowComet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 676
+        width: 14
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: YellowComet_1
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 676
+        width: 14
+        height: 15
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: YellowComet_2
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 676
+        width: 16
+        height: 17
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: YellowComet_3
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 676
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: YellowComet_4
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 676
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: YellowComet_5
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 676
+        width: 11
+        height: 17
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: YellowComet_6
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 676
+        width: 11
+        height: 17
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: YellowComet_7
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 676
+        width: 11
+        height: 18
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: YellowComet_8
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 676
+        width: 13
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: YellowComet_9
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 676
+        width: 13
+        height: 17
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: YellowComet_10
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 676
+        width: 13
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: YellowComet_11
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 676
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: YellowComet_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 652
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: YellowComet_13
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 652
+        width: 16
+        height: 17
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: YellowComet_14
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 652
+        width: 14
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: YellowComet_15
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 652
+        width: 14
+        height: 15
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: YellowComet_16
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 652
+        width: 16
+        height: 15
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: YellowComet_17
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 652
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: YellowComet_18
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 652
+        width: 16
+        height: 17
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: YellowComet_19
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 652
+        width: 16
+        height: 17
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: YellowComet_20
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 652
+        width: 16
+        height: 18
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: YellowComet_21
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 652
+        width: 14
+        height: 19
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: YellowComet_22
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 652
+        width: 14
+        height: 20
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: YellowComet_23
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 652
+        width: 14
+        height: 19
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: YellowComet_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 628
+        width: 16
+        height: 17
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: YellowComet_25
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 628
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: YellowComet_26
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 628
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: YellowComet_27
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 628
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: YellowComet_28
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 628
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: YellowComet_29
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 628
+        width: 16
+        height: 17
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: YellowComet_30
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 628
+        width: 16
+        height: 15
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: YellowComet_31
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 628
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: YellowComet_32
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 628
+        width: 13
+        height: 14
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: YellowComet_33
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 628
+        width: 13
+        height: 15
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: YellowComet_34
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 628
+        width: 13
+        height: 15
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: YellowComet_35
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 628
+        width: 13
+        height: 15
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: YellowComet_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 604
+        width: 13
+        height: 15
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: YellowComet_37
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 604
+        width: 11
+        height: 15
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: YellowComet_38
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 604
+        width: 11
+        height: 15
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: YellowComet_39
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 604
+        width: 11
+        height: 17
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: YellowComet_40
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 604
+        width: 11
+        height: 17
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: YellowComet_41
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 604
+        width: 13
+        height: 14
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: YellowComet_42
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 604
+        width: 13
+        height: 15
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: YellowComet_43
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 604
+        width: 14
+        height: 14
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: YellowComet_44
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 604
+        width: 14
+        height: 13
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: YellowComet_45
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 604
+        width: 14
+        height: 14
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: YellowComet_46
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 604
+        width: 14
+        height: 13
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: YellowComet_47
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 604
+        width: 14
+        height: 14
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: YellowComet_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 580
+        width: 11
+        height: 15
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: YellowComet_49
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 580
+        width: 11
+        height: 15
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: YellowComet_50
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 580
+        width: 11
+        height: 15
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: YellowComet_51
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 580
+        width: 11
+        height: 15
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: YellowComet_52
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 580
+        width: 14
+        height: 14
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: YellowComet_53
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 580
+        width: 14
+        height: 13
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: YellowComet_54
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 580
+        width: 15
+        height: 15
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: YellowComet_55
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 580
+        width: 15
+        height: 14
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: YellowComet_56
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 580
+        width: 15
+        height: 15
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: YellowComet_57
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 580
+        width: 15
+        height: 14
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: YellowComet_58
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 580
+        width: 15
+        height: 15
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: YellowComet_59
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 580
+        width: 11
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: YellowComet_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 556
+        width: 11
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: YellowComet_61
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 556
+        width: 11
+        height: 19
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: YellowComet_62
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 556
+        width: 11
+        height: 19
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: YellowComet_63
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 556
+        width: 15
+        height: 15
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: YellowComet_64
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 556
+        width: 15
+        height: 14
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: YellowComet_65
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 556
+        width: 13
+        height: 13
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: YellowComet_66
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 556
+        width: 12
+        height: 12
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: YellowComet_67
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 556
+        width: 13
+        height: 13
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: YellowComet_68
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 556
+        width: 12
+        height: 12
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: YellowComet_69
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 556
+        width: 13
+        height: 13
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: YellowComet_70
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 556
+        width: 11
+        height: 14
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: YellowComet_71
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 556
+        width: 11
+        height: 14
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: YellowComet_72
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 532
+        width: 11
+        height: 15
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: YellowComet_73
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 532
+        width: 11
+        height: 15
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: YellowComet_74
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 532
+        width: 13
+        height: 13
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: YellowComet_75
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 532
+        width: 12
+        height: 12
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: YellowComet_76
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 532
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: YellowComet_77
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 532
+        width: 16
+        height: 15
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: YellowComet_78
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 532
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: YellowComet_79
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 532
+        width: 16
+        height: 15
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: YellowComet_80
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 532
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: YellowComet_81
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 532
+        width: 11
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: YellowComet_82
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 532
+        width: 11
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: YellowComet_83
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 532
+        width: 11
+        height: 18
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: YellowComet_84
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 508
+        width: 11
+        height: 18
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: YellowComet_85
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 508
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: YellowComet_86
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 508
+        width: 16
+        height: 15
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: YellowComet_87
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 508
+        width: 14
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: YellowComet_88
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 508
+        width: 14
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: YellowComet_89
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 508
+        width: 14
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: YellowComet_90
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 508
+        width: 14
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: YellowComet_91
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 508
+        width: 12
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: YellowComet_92
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 508
+        width: 12
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: YellowComet_93
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 508
+        width: 12
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: YellowComet_94
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 508
+        width: 12
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: YellowComet_95
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 508
+        width: 14
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: YellowComet_96
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 484
+        width: 14
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: YellowComet_97
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 484
+        width: 14
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: YellowComet_98
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 484
+        width: 14
+        height: 15
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: YellowComet_99
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 484
+        width: 14
+        height: 15
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: YellowComet_100
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 484
+        width: 14
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: YellowComet_101
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 484
+        width: 9
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: YellowComet_102
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 484
+        width: 9
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: YellowComet_103
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 484
+        width: 9
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: YellowComet_104
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 484
+        width: 9
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: YellowComet_105
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 484
+        width: 14
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: YellowComet_106
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 484
+        width: 14
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: YellowComet_107
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 484
+        width: 15
+        height: 15
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: YellowComet_108
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 460
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: YellowComet_109
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 460
+        width: 15
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: YellowComet_110
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 460
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: YellowComet_111
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 460
+        width: 15
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: YellowComet_112
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 460
+        width: 13
+        height: 17
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: YellowComet_113
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 460
+        width: 13
+        height: 17
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: YellowComet_114
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 460
+        width: 13
+        height: 18
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: YellowComet_115
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 460
+        width: 13
+        height: 18
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: YellowComet_116
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 460
+        width: 15
+        height: 15
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: YellowComet_117
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 460
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: YellowComet_118
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 460
+        width: 15
+        height: 15
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: YellowComet_119
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 460
+        width: 15
+        height: 15
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: YellowComet_120
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 436
+        width: 16
+        height: 15
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: YellowComet_121
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 436
+        width: 15
+        height: 19
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: YellowComet_122
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 436
+        width: 19
+        height: 21
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: YellowComet_123
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 436
+        width: 19
+        height: 21
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: YellowComet_124
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 436
+        width: 15
+        height: 19
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: YellowComet_125
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 436
+        width: 11
+        height: 20
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: YellowComet_126
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 436
+        width: 11
+        height: 23
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: YellowComet_127
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 436
+        width: 11
+        height: 20
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: YellowComet_128
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 436
+        width: 11
+        height: 22
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: YellowComet_129
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 436
+        width: 15
+        height: 15
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: YellowComet_130
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 436
+        width: 15
+        height: 15
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: YellowComet_131
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 436
+        width: 16
+        height: 15
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: YellowComet_132
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 412
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: YellowComet_133
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 412
+        width: 16
+        height: 15
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: YellowComet_134
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 412
+        width: 16
+        height: 15
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: YellowComet_135
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 412
+        width: 16
+        height: 21
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: YellowComet_136
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 412
+        width: 21
+        height: 23
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: YellowComet_137
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 412
+        width: 21
+        height: 23
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: YellowComet_138
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 412
+        width: 16
+        height: 21
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: YellowComet_139
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 412
+        width: 13
+        height: 22
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: YellowComet_140
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 410
+        width: 19
+        height: 24
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: YellowComet_141
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 412
+        width: 13
+        height: 17
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: YellowComet_142
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 412
+        width: 19
+        height: 20
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: YellowComet_143
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 412
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: YellowComet_144
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 388
+        width: 16
+        height: 15
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: YellowComet_145
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 388
+        width: 16
+        height: 15
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: YellowComet_146
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 388
+        width: 15
+        height: 14
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: YellowComet_147
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 388
+        width: 15
+        height: 14
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: YellowComet_148
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 388
+        width: 22
+        height: 19
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: YellowComet_149
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 388
+        width: 22
+        height: 19
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: YellowComet_150
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 388
+        width: 22
+        height: 19
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: YellowComet_151
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 388
+        width: 22
+        height: 19
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: YellowComet_152
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 388
+        width: 13
+        height: 21
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: YellowComet_153
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 388
+        width: 13
+        height: 23
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: YellowComet_154
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 388
+        width: 13
+        height: 22
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: YellowComet_155
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 388
+        width: 13
+        height: 23
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: YellowComet_160
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 340
+        width: 15
+        height: 14
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: YellowComet_161
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 340
+        width: 15
+        height: 14
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: YellowComet_162
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 340
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: YellowComet_163
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 340
+        width: 16
+        height: 15
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: YellowComet_164
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 340
+        width: 23
+        height: 22
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: YellowComet_165
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 340
+        width: 23
+        height: 22
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: YellowComet_166
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 340
+        width: 23
+        height: 22
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: YellowComet_167
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 340
+        width: 23
+        height: 22
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: YellowComet_168
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 340
+        width: 19
+        height: 24
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: YellowComet_169
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 340
+        width: 19
+        height: 24
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: YellowComet_170
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 340
+        width: 19
+        height: 24
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: YellowComet_171
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 340
+        width: 19
+        height: 24
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: YellowComet_172
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 316
+        width: 16
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: YellowComet_173
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 316
+        width: 16
+        height: 15
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: YellowComet_174
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 316
+        width: 16
+        height: 14
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: YellowComet_175
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 316
+        width: 16
+        height: 13
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: YellowComet_176
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 316
+        width: 16
+        height: 13
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: YellowComet_177
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 316
+        width: 16
+        height: 14
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: YellowComet_178
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 316
+        width: 11
+        height: 18
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: YellowComet_179
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 316
+        width: 11
+        height: 17
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: YellowComet_180
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 316
+        width: 11
+        height: 18
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: YellowComet_181
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 316
+        width: 11
+        height: 20
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: YellowComet_182
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 316
+        width: 18
+        height: 13
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: YellowComet_183
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 316
+        width: 17
+        height: 13
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: YellowComet_184
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 292
+        width: 16
+        height: 11
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: YellowComet_185
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 292
+        width: 16
+        height: 11
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: YellowComet_186
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 292
+        width: 16
+        height: 11
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: YellowComet_187
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 292
+        width: 16
+        height: 11
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: YellowComet_188
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 292
+        width: 16
+        height: 11
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: YellowComet_189
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 292
+        width: 16
+        height: 11
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: YellowComet_190
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 292
+        width: 8
+        height: 15
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: YellowComet_191
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 292
+        width: 8
+        height: 15
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: YellowComet_192
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 292
+        width: 10
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: YellowComet_193
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 292
+        width: 10
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: YellowComet_194
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 292
+        width: 16
+        height: 11
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: YellowComet_195
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 292
+        width: 16
+        height: 11
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: YellowComet_196
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 268
+        width: 13
+        height: 11
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: YellowComet_197
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 268
+        width: 13
+        height: 12
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: YellowComet_198
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 268
+        width: 13
+        height: 12
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: YellowComet_199
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 268
+        width: 13
+        height: 11
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: YellowComet_200
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 268
+        width: 11
+        height: 17
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: YellowComet_201
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 268
+        width: 11
+        height: 16
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: YellowComet_202
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 268
+        width: 11
+        height: 14
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: YellowComet_203
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 268
+        width: 11
+        height: 14
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: YellowComet_204
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 268
+        width: 13
+        height: 11
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: YellowComet_205
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 268
+        width: 13
+        height: 12
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: YellowComet_206
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 268
+        width: 16
+        height: 14
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: YellowComet_207
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 268
+        width: 16
+        height: 15
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: YellowComet_208
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 244
+        width: 16
+        height: 15
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: YellowComet_209
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 244
+        width: 16
+        height: 14
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: YellowComet_210
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 244
+        width: 10
+        height: 19
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: YellowComet_211
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 244
+        width: 11
+        height: 20
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: YellowComet_212
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 244
+        width: 11
+        height: 18
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: YellowComet_213
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 244
+        width: 11
+        height: 19
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: YellowComet_214
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 244
+        width: 17
+        height: 15
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: YellowComet_215
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 244
+        width: 18
+        height: 14
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
